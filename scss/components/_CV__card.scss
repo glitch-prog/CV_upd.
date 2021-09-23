@@ -1,0 +1,9 @@
+.CV__card {
+  background: #f5f5dc;
+  margin-bottom: 30px;
+  padding: 20px;
+}
+
+.CV__card:not(:last-child) {
+  margin-bottom: 30px;
+}

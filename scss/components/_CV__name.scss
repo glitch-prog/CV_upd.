@@ -1,0 +1,17 @@
+.CV__name {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.CV__name h2 {
+  padding: 10px;
+  border: 2px solid #333333;
+}
+
+.CV__name p {
+  position: absolute;
+  background-color: #fff;
+  top: 90px;
+}
